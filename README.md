@@ -6,4 +6,4 @@ Step 1 : This is written in local file.
 
 Step 2L : This is written in local, and now we will try to solve the merge conflict again. 
  
-
+I don't need no goodluck. Fuck you hoe. 
