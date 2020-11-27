@@ -7,11 +7,9 @@ and now I will attempt again to send it to the github.
 
 Now,since the username does not seem to change, I am logging into 
 my earlier created SharathGa account and then I am sending the code 
-to cloud. This must work now. Hopefully. 
+to cloud. This must work now. Hopefully. fuck this bro.  
 
 Finally I have deleted the config file, I hope this will work now. 
 
 This is the change made in local file. I want this to be represented in the local file changes inthe mergetool.  
 
-This the change that i made on github. These are the changes I made in the github that I 
-need to be reflected in the remote options. 
