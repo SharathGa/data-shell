@@ -10,4 +10,5 @@ my earlier created SharathGa account and then I am sending the code
 to cloud. This must work now. Hopefully. 
 
 
-This the change that i made on github. 
+This the change that i made on github .These are the changes I made in the github that I 
+need to be reflected in the remote options. 
