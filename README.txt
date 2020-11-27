@@ -11,4 +11,5 @@ to cloud. This must work now. Hopefully. fuck this bro.
 
 Finally I have deleted the config file, I hope this will work now. 
 
-I was able to send the data tot the cloud feels good. 
+This is the change made in local file. I want this to be represented in the local file changes inthe mergetool.  
+
