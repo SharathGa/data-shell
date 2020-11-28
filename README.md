@@ -7,5 +7,7 @@ Step 1 : This is written in local file.
 Step 2L : This is written in local, and now we will try to solve the merge conflict again. 
 
 Good luck Sharath. 
- 
-I don't need no goodluck. Fuck you hoe. 
+
+Step 3L: Trying to create another merge conflict from local.
+
+Finally, this is the text that I will be accepting as my answer.   
