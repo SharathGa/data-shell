@@ -8,4 +8,4 @@ Step 2L : This is written in local, and now we will try to solve the merge confl
 
 Good luck Sharath. 
  
-
+Step 3C : Trying to create a merge conflict from github. 
